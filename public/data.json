@@ -1,0 +1,36 @@
+[
+    {
+        "image": "https://image.freepik.com/free-psd/decorative-frame-concept-mock-up_23-2148591585.jpg",
+        "name": "Car world",
+        "des": "Authentication system implemented with Firebase.Designed dashboard and implemented user, admin management page.Users can order products and can see their orders list from dashboard. Admin can add, delete,update a product and also create a new admin.",
+        "tech": "React, Firebase, Node Js, Admin",
+        "live": "https://car-world-9db38.web.app/",
+        "server": "https://github.com/taufikka/car-sale-service-website-server-side",
+        "client": "https://github.com/taufikka/car-sale-service-website-client-side"
+    },
+    {
+        "image": "https://image.freepik.com/free-psd/decorative-frame-concept-mock-up_23-2148591585.jpg",
+        "name": "Travelo",
+        "des": "User Authentication using firebase.Users can book a service and remove their services.Admin only adds new services and manage all orders of all users.",
+        "tech": "React, Firebase, Node Js",
+        "live": "https://tour-planner-e58a4.web.app/",
+        "server": "https://github.com/taufikka/tour-planner-website-server-side",
+        "client": "https://github.com/taufikka/tour-planner-website-client-side"
+    },
+    {
+        "image": "https://image.freepik.com/free-psd/decorative-frame-concept-mock-up_23-2148591585.jpg",
+        "name": "Evercare Hospital",
+        "des": "Service website with Google & Email, Password login system.Users can see service details by clicking on the read more button.Fully Responsive for mobile and desktop version.",
+        "tech": "React, Bootstrap, Firebase",
+        "live": "https://health-care-web.web.app/",
+        "client": "https://github.com/taufikka/health-care-website"
+    },
+    {
+        "image": "https://image.freepik.com/free-psd/decorative-frame-concept-mock-up_23-2148591585.jpg",
+        "name": "Edumig",
+        "des": "User can see some english learning service in home page and more service will see by clicking on the courses button.Then in about page,course related details information is describe & in contact page,available options like email,phone-number,address for connect.",
+        "tech": "React, Bootstrap, React Router",
+        "live": "https://edumig-educational-site-by-taufik.netlify.app/",
+        "client": "https://github.com/taufikka/educational-service-website"
+    }
+]

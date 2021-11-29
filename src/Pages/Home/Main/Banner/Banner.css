@@ -1,0 +1,14 @@
+.title-font{
+    font-size: 60px;
+    font-weight: bold;
+    color: #ccd6f6;
+}
+.paragraph-color{
+    color: #ccd6f6;
+}
+button{
+    background-color: #262727;
+}
+button:hover{
+    background-color: #1417182a;
+}
