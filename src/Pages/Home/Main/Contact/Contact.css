@@ -1,0 +1,64 @@
+form {
+    width: 90%;
+    margin: 0 auto;
+}
+
+h1{
+    color: #fff;
+    font-size: 2em;
+}
+/* edited a to button */
+form>button{
+    text-align: center;
+    display: block;
+    margin: 1em auto;
+    /* padding: 1em 0em; */
+    width: 100%;
+    color: #fff;
+    text-decoration: none;
+    background: #2ecc71;
+    box-shadow: 0px 8px #27ae60;
+    text-transform: uppercase;
+    transition: 0.5s all;
+    font-size: 1.2em;
+    border: 0;
+}
+
+form>button:hover{
+    text-decoration: none;
+    background: #3498db;
+    box-shadow: 0px 8px #2980b9;
+    color: #fff;
+}
+
+
+.input-group {
+    margin-bottom: 0.5em;
+}
+
+.holder {
+    width: 73%;
+    margin: 10em auto;  
+    background: rgb(34, 33, 33);
+    padding: 4em 0em;
+}
+
+
+/*blog article*/
+
+.aboutlink{
+  color: #fff;
+  font-size: 0.8em;
+  display: block;
+  text-align: center;
+  transition: 0.8s all;
+}
+
+.aboutlink:hover{
+  color: #2ecc71;
+  text-decoration: none;
+}
+
+.form-control{
+    background-color: rgb(17, 16, 16);
+}

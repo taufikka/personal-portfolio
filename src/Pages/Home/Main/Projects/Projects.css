@@ -1,4 +1,8 @@
 .projects-container{
-    padding-left: 97px;
-    padding-right: 97px;
+    padding-left: 76px;
+    padding-right: 76px;
+}
+
+card:hover{
+    border: 1px solid white;
 }
